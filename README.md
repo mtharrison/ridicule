@@ -119,7 +119,7 @@ becomes
     "ridiculeSettings": {
         "statusCode": 418,
         "headers": { "Content-Type": "x-stream" }
-    }
+    },
     payload: {
         "foo": "bar"
     }
